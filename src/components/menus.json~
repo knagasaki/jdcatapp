@@ -1,0 +1,26 @@
+[
+  {
+    name: 'Home',
+    url: '#'
+  },
+  {
+    name: 'News',
+    url: '#'
+  },
+  {
+    name: 'About',
+    url: '#'
+  },
+  {
+    name: 'Manual',
+    url: '#'
+  },
+  {
+    name: 'Partners',
+    url: '#'
+  },
+  {
+    name: 'Guidelines',
+    url: '#'
+  }
+]
